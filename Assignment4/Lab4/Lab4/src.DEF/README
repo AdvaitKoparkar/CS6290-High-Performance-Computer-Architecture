@@ -1,0 +1,9 @@
+You may copy your cache.c from ABC  ... However, remember to include extern uns64 SWP_core0ways on top of cache.c
+
+You may copy the contents of dram.c from ABC to dram.c here
+
+For Part D: You need to simply write two functions memsys_access_modeDEF and memsys_L2_access
+
+For Part E: You need to simply implement a new replacement policy in function cache_find_victim of cache.c 
+
+For Part F: You need to simply implement a new replacement policy in function cache_find_victim of cache.c 

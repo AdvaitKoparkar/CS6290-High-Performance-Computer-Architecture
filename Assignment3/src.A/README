@@ -1,0 +1,9 @@
+For Part A, your job is simply to create the functionality for the three objects: RAT, REST, and ROB.
+
+We have provided the *.h files, which should remain unmodified.  You should simply fill the desired functions in each *.cpp files and compile the file as an independent object file, using the following command:
+
+g++ -c rat.cpp -o rat.o
+g++ -c rest.cpp -o rest.o
+g++ -c rob.cpp -o rob.o
+
+Since you have no way of debugging these files just yet, tou will be graded for Part A for simply submitting the cpp files.  
